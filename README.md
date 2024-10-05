@@ -1,2 +1,2 @@
 # POO
-Material produzido durante as aulas de Programação Orientada à Objetos
+Material produzido durante as aulas de Programação Orientada à Objetos - POO
